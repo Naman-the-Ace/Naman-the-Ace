@@ -100,11 +100,11 @@ I have built full-stack AI/ML-powered platforms, optimized backend pipelines, an
 <br>
 
 <a href="http://www.github.com/itsmehotpants">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmehotpants&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="itsmehotpants's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-the-Ace&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="itsmehotpants's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/itsmehotpants">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmehotpants&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-the-Ace&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 ### ✍️ Random Dev Quote
