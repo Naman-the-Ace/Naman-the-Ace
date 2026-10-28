@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## Builder. Problem Solver. Backend & ML Engineer. 🏆
+## Builder. Problem Solver. Backend & AI Engineer. 🏆
 Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
 
 I have built full-stack AI/ML-powered platforms, optimized backend pipelines, and engineered scalable services. With experience in competitive programming, I bring strong analytical thinking and a passion for backend architecture, distributed computing, and building resilient systems at scale.
