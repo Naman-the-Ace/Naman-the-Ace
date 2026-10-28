@@ -1,27 +1,70 @@
 
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naman Agrawal
+# Hi there! 👋 I'm Naman Agrawal
 
-<h3 align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</h3>
+<h3 align="center">AI Engineer | Backend Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://naman-verse.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Naman-0E5484?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E5484?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naman-agrawal-8671aa27b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-## Builder. Problem Solver. Backend & AI Engineer. 🏆
-Software Development Engineer with expertise in, **Java**, **Python** and **C++** and a solid grasp of **Data Structures, Algorithms, Spring Boot Framework and Systems Fundamentals**. 
+## 🚀 About Me
 
-I have built full-stack AI/ML-powered platforms, optimized backend pipelines, and engineered scalable services. With experience in competitive programming, I bring strong analytical thinking and a passion for backend architecture, distributed computing, and building resilient systems at scale.
+I'm a final-year B.Tech student at **LNMIIT Jaipur**, passionate about building AI-powered applications and reliable backend systems.
 
-* 🌍&nbsp; I'm based in **Jaipur, Rajasthan**
-* ✉️&nbsp; You can contact me at [thisisnamanagrawal@gmail.com](mailto:thisisnamanagrawal@gmail.com)
-* 🧠&nbsp;  Currently deepening expertise in **System Design & Distributed Systems**
-* 👥&nbsp; I'm looking to collaborate on [LinkedIn](https://www.linkedin.com/in/naman-agrawal-8671aa27b/)
+- 🤖 Building with **LLMs, Agentic AI, RAG, embeddings, vector search, and MCP**.
+- ⚙️ Developing backend services and APIs using **Python, FastAPI, Java, and Spring Boot**.
+- 🧠 Exploring **AI agent memory, distributed systems, and system design**.
+- 🏆 **LeetCode Guardian** (peak rating: 2163) and **Codeforces Specialist**.
+- 💡 Solved **2,000+ algorithmic problems** across competitive programming platforms.
+- 🌱 Always learning, building, and contributing to meaningful engineering projects.
 
----
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📌 What I Enjoy Building
+
+- **AI Applications:** Agentic workflows, adaptive RAG pipelines, and intelligent retrieval systems.
+- **Backend Systems:** REST APIs, microservices, event-driven architectures, and scalable services.
+- **Developer Infrastructure:** Vector search, evaluation pipelines, and reliable integrations.
+
+## 🤝 Let's Connect
+
+I'm open to **AI Engineering and Software Engineering opportunities**, interesting collaborations, and open-source contributions.
+
+📧 **Email:** [thisisnamanagrawal@gmail.com](mailto:thisisnamanagrawal@gmail.com)
+
+🌐 **Portfolio:** [naman-verse.netlify.app](https://naman-verse.netlify.app/)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naman-agrawal-8671aa27b/)
+
+⭐ Feel free to explore my repositories and connect if you're building something interesting!
 <!-- Snake Game Repo View -->
 
 <div align="center">
